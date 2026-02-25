@@ -2,6 +2,6 @@ Origin: Project Sienna
 Label: Project Sienna Prototype
 Suite: prototype
 Codename: prototype
-Architectures: all
+Architectures: amd64 all
 Components: main
 Description: Project Sienna Prototype Repository
